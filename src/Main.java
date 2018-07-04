@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("First commit to master");
         System.out.println("First commit to My_First_branch");
+        System.out.println("Second commit to My_First_branch");
     }
 }
